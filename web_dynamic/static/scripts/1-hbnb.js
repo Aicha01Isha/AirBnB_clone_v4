@@ -1,5 +1,5 @@
 window.addEventListener('load', function () {
-  // task 2
+  // watvvr
   const amenityIds = {};
   $('input[type=checkbox]').change(function () {
     if ($(this).prop('checked')) {
